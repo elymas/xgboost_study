@@ -13,7 +13,6 @@ from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 from sklearn import (metrics, linear_model, preprocessing)
 from sklearn.model_selection import train_test_split 
-import xgboost as xgb 
 
 from sklearn.metrics import accuracy_score
 from sklearn.feature_selection import SelectFromModel
